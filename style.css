@@ -6,6 +6,9 @@ body{
 span{
     color: blue;
 }
+.clear{
+    clear: both;
+}
 .half-width{
     float: left;
     width: 40%;
@@ -29,6 +32,9 @@ span{
 section{
     height: 200px;
     padding-bottom: 150px;
+}
+.working-project {
+    background-color: #f2f2f2;
 }
 .working-project p{
     text-align: justify;
@@ -99,8 +105,6 @@ input{
     text-align: center;
     
   }
-
-
 
 footer p{
     text-align: center;
