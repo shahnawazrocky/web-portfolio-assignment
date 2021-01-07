@@ -46,7 +46,59 @@ section{
 .latest-working-project{
     text-align: center;
 }
+.inquiry{
+    width: 80%;
+    margin: 4% 10% 5% 10%;
+}
+.inquiry img{
+    width: 900px;
+}
+.info{
+    position: relative;
+    margin-top: -18%;
+    margin-left: 10%;
+}
+.info h2{
+    display: inline-block;
+    color: #fff;
+    font-size: 40px;
+}
+.info a{
+    display: inline-block;
+    margin-left: 30%;
+    color: #fff;
+    text-decoration: none;
+    background-image: linear-gradient(#FC7662,#F66460);
+    padding: 1% 2%;
+    border-radius: 10px;
+}
 
+.icon-part{
+    text-align: center;
+}
+input{
+    width: 100px 
+    padding: 12px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    
+  }
+  #mass{
+      
+      height: 120px;
+      width: 300px;
+  }
+ 
+  .half-width2 {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+    
+  }
 
 
 
