@@ -35,14 +35,15 @@ section{
 }
 .working-project {
     background-color: #f2f2f2;
+    
 }
 .working-project p{
     text-align: justify;
 }
 #full-stack{
-    border-left: 7px solid;
-    border-image: linear-gradient(180deg, lightSalmon, tomato );
-    border-image-slice: 1;
+    border-radius: 15px;
+    background-color: white;
+    
     width: 25%;
     text-align: center;
 }
